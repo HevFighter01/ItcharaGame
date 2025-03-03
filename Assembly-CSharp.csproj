@@ -61,19 +61,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\HUD\Timer.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\EnemySO.cs" />
+    <Compile Include="Assets\Scripts\HUD\Score.cs" />
     <Compile Include="Assets\Scripts\Weapons\ActiveWeapon.cs" />
     <Compile Include="Assets\Scripts\Skeleton\EnemyEntity.cs" />
-    <Compile Include="Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerVisual.cs" />
+    <Compile Include="Assets\Scripts\Other\Utils.cs" />
+    <Compile Include="Assets\Scripts\Bed\Bed.cs" />
     <Compile Include="Assets\PlayerInputAction\PlayerInputAction.cs" />
+    <Compile Include="Assets\Scripts\Other\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\Other\GameInput.cs" />
     <Compile Include="Assets\Scripts\Weapons\Sword\SwordVisual.cs" />
     <Compile Include="Assets\Scripts\Other\KnockBack.cs" />
     <Compile Include="Assets\Scripts\Skeleton\Enemy AI.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Weapons\Sword\SwordSlashVisual.cs" />
     <Compile Include="Assets\Scripts\Skeleton\SkeletonVisual.cs" />
-    <Compile Include="Assets\Scripts\Utils.cs" />
+    <Compile Include="Assets\Scripts\HUD\HPBar.cs" />
     <Compile Include="Assets\Scripts\Weapons\Sword\Sword.cs" />
   </ItemGroup>
   <ItemGroup>
