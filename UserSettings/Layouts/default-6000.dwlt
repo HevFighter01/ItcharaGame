@@ -67,10 +67,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 245.6
     height: 285.59998
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
+=======
+    width: 277.6
+    height: 330.4
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> 1d1ddc1 (Фикс передвижения)
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -148,8 +155,8 @@ MonoBehaviour:
     y: 0
     width: 340
     height: 724.8
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -172,10 +179,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 245.6
     y: 0
+<<<<<<< HEAD
     width: 718.4
     height: 285.59998
   m_MinSize: {x: 102, y: 126}
   m_MaxSize: {x: 4002, y: 4026}
+=======
+    width: 686.4
+    height: 330.4
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> 1d1ddc1 (Фикс передвижения)
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -345,7 +359,11 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
+<<<<<<< HEAD
   m_LastSelectedObjectID: 45176
+=======
+  m_LastSelectedObjectID: 45058
+>>>>>>> 1d1ddc1 (Фикс передвижения)
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -533,7 +551,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/ScriptableObjects
+=======
+    - Assets/PlayerInputAction
+>>>>>>> 1d1ddc1 (Фикс передвижения)
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -552,7 +574,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 52b30000
     m_LastClickedID: 45906
+<<<<<<< HEAD
     m_ExpandedIDs: 000000007c7000007e70000040b2000042b2000044b2000046b2000048b200004ab200004cb200004eb2000050b2000052b2000054b2000056b2000058b200005ab200005cb200005eb2000060b2000062b2000064b2000066b2000068b200006ab200006cb20000
+=======
+    m_ExpandedIDs: 0000000038b100003ab1000096b10000b2b20000b4b20000b6b20000b8b20000bab20000bcb20000beb20000c0b20000c2b20000c4b20000c6b20000c8b20000cab20000ccb20000ceb20000d0b20000d2b20000d4b20000d6b20000d8b20000dab20000dcb20000
+>>>>>>> 1d1ddc1 (Фикс передвижения)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -578,10 +604,17 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 469.71027}
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: ffffffff000000007c7000007e70000040b2000042b2000044b2000046b2000048b200004ab200004cb200004eb2000050b2000052b2000054b2000056b2000058b200005ab200005cb200005eb2000060b2000062b2000064b2000066b2000068b200006ab200006cb20000
+=======
+    scrollPos: {x: 0, y: 659.1917}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: ffffffff0000000038b100003ab1000096b10000b2b20000b4b20000b6b20000b8b20000bab20000bcb20000beb20000c0b20000c2b20000c4b20000c6b20000c8b20000cab20000ccb20000ceb20000d0b20000d2b20000d4b20000d6b20000d8b20000dab20000dcb20000
+>>>>>>> 1d1ddc1 (Фикс передвижения)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -729,7 +762,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 78faffff
+=======
+      m_ExpandedIDs: 0cfbffff
+>>>>>>> 1d1ddc1 (Фикс передвижения)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1333,9 +1370,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -9.5636215, y: 0.3743621, z: 0.7445286}
     speed: 2
     m_Value: {x: -9.566872, y: 0.37316748, z: 0.74450254}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> 1d1ddc1 (Фикс передвижения)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1385,9 +1428,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 6.9424925
     speed: 2
     m_Value: 6.945097
+=======
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+>>>>>>> 1d1ddc1 (Фикс передвижения)
   m_Ortho:
     m_Target: 1
     speed: 2
